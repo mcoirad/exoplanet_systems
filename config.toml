@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://dario.technology/exoplanet_systems/'
 languageCode = 'en-us'
 title = 'Exoplanet Systems'
 theme = 'hugo-theme-console'
