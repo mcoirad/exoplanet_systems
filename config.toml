@@ -2,3 +2,27 @@ baseURL = 'https://exoplanet.systems/'
 languageCode = 'en-us'
 title = 'Exoplanet Systems'
 theme = 'hugo-theme-console'
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "technology/"
+  url = "technology/"
+
+  [[params.navlinks]]
+  name = "about-us/"
+  url = "about-us/"
+
+[markup.goldmark.renderer]
+unsafe= true
