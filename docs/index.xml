@@ -6,5 +6,24 @@
     <description>Recent content on Exoplanet Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://exoplanet.systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://exoplanet.systems/about-us/</link>
+      <pubDate>Thu, 22 May 2025 11:14:26 -0500</pubDate>
+      
+      <guid>https://exoplanet.systems/about-us/</guid>
+      <description>At our core, we are storytellers driven by a passion for pushing the boundaries of interactive narratives. We explore both time-tested procedural design and cutting-edge advances in AI to craft experiences where player choices truly shape the story. Our mission is to reimagine what games can be—immersive, emotionally engaging, and deeply personal—and to make them accessible to everyone, regardless of their gaming background. Whether through visual novels, mystery adventures, or co-op storytelling experiences, we aim to bring the magic of interactive fiction to more people and platforms than ever before.</description>
+    </item>
+    
+    <item>
+      <title>Technology &amp; Current Projects</title>
+      <link>https://exoplanet.systems/technology/</link>
+      <pubDate>Wed, 21 May 2025 22:03:02 -0500</pubDate>
+      
+      <guid>https://exoplanet.systems/technology/</guid>
+      <description>Object-gine We are developing a framework for scripting multiplayer interactive fiction inspired by Renpy. This framework and its accompanying scripting language can be used to easily develop interactive fiction games for mobile and other platforms.
+Your browser does not support the video tag.  # Intro narrator &amp;quot;Here we are, at the boss&#39; office.&amp;quot; enter(Boss,interactive=true,options=[look,talk]);setPosition(Boss,0.5,0.65) Boss &amp;quot;So you&#39;re wondering why I called you in tonight.&amp;quot; Boss &amp;quot;This is a real important case.</description>
+    </item>
+    
   </channel>
 </rss>
